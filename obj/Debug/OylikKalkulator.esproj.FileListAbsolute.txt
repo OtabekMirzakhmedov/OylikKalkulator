@@ -1,0 +1,2 @@
+C:\Users\Otabek\source\repos\OylikKalkulator\OylikKalkulator\obj\Debug\OylikKalkulator.esproj.SuggestedBindingRedirects.cache
+C:\Users\Otabek\source\repos\OylikKalkulator\OylikKalkulator\obj\Debug\OylikKalkulator.esproj.CoreCompileInputs.cache
